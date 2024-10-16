@@ -1,0 +1,11 @@
+displayName: ApiLoadTesting
+testPlan: View Results Tree.jmx
+description: API Load testing
+engineInstances: 1
+testId: 3e2a458b-f53f-44ce-b796-d9308d123021
+testType: JMX
+splitAllCSVs: False
+failureCriteria: []
+autoStop:
+  errorPercentage: 90
+  timeWindow: 60
